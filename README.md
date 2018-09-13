@@ -19,3 +19,5 @@
 * bubble_sort 冒泡排序<br>
 
 * select_sort 选择排序<br>
+
+* insert_sort 插入排序<br>
